@@ -65,12 +65,7 @@
   />
   <br>
   <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=wsethw&theme=midnight-purple&card_width=885"
-  />
+
   </div>
 
 <div align="center" style="display: inline_block"><br>
