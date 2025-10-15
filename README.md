@@ -102,7 +102,7 @@
   <br>
   <br>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo)](https://www.instagram.com/wjosuew)
+  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo)](https://www.instagram.com/wjosuew_)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo)](https://www.linkedin.com/in/wjosuew)
   
 </div>
