@@ -10,10 +10,7 @@
       Hi there! I'm <b>Josué Wesley</b>
   </samp>
 </div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwsethw&s=30&c=9740db&bg=00000000&no=8&ff=digi&tb=profile+visits%3A++&ta=" /></p> 
-</div>
-      
+
 <br>
 <br>
       
